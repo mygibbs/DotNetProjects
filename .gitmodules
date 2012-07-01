@@ -1,0 +1,3 @@
+[submodule "ProjectEuler1"]
+	path = ProjectEuler1
+	url = git@github.com:mygibbs/ProjectEuler1
