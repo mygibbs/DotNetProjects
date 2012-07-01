@@ -1,0 +1,7 @@
+C:\dev\MVCApplication1\MVCApplication1\bin\MVCApplication1.dll
+C:\dev\MVCApplication1\MVCApplication1\bin\MVCApplication1.pdb
+C:\dev\MVCApplication1\MVCApplication1\bin\EntityFramework.dll
+C:\dev\MVCApplication1\MVCApplication1\bin\EntityFramework.xml
+C:\dev\MVCApplication1\MVCApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\MVCApplication1\MVCApplication1\obj\Debug\MVCApplication1.dll
+C:\dev\MVCApplication1\MVCApplication1\obj\Debug\MVCApplication1.pdb

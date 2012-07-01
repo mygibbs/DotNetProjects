@@ -1,0 +1,7 @@
+C:\dev\MVC3Razor\MVC3Razor\bin\MVC3Razor.dll
+C:\dev\MVC3Razor\MVC3Razor\bin\MVC3Razor.pdb
+C:\dev\MVC3Razor\MVC3Razor\bin\EntityFramework.dll
+C:\dev\MVC3Razor\MVC3Razor\bin\EntityFramework.xml
+C:\dev\MVC3Razor\MVC3Razor\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\MVC3Razor\MVC3Razor\obj\Debug\MVC3Razor.dll
+C:\dev\MVC3Razor\MVC3Razor\obj\Debug\MVC3Razor.pdb

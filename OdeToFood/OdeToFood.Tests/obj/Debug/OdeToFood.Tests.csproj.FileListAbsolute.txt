@@ -1,0 +1,11 @@
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\nunit.framework.dll
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\nunit.mocks.dll
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\pnunit.framework.dll
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.pdb
+C:\dev\OdeToFood\OdeToFood.Tests\bin\Debug\nunit.framework.xml
+C:\dev\OdeToFood\OdeToFood.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
+C:\dev\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb

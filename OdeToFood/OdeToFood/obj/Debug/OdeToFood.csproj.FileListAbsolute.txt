@@ -1,0 +1,7 @@
+C:\dev\OdeToFood\OdeToFood\bin\OdeToFood.dll
+C:\dev\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+C:\dev\OdeToFood\OdeToFood\bin\EntityFramework.dll
+C:\dev\OdeToFood\OdeToFood\bin\EntityFramework.xml
+C:\dev\OdeToFood\OdeToFood\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+C:\dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
