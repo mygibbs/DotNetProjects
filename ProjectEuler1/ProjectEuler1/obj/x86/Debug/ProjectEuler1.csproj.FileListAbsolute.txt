@@ -1,0 +1,17 @@
+C:\dev\ProjectEuler1\ProjectEuler1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\ProjectEuler1.exe
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\ProjectEuler1.pdb
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit-console-runner.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit-gui-runner.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.core.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.core.interfaces.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.exe
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.framework.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.mocks.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.uiexception.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.uikit.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.util.dll
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\nunit.framework.xml
+C:\dev\ProjectEuler1\ProjectEuler1\obj\x86\Debug\ProjectEuler1.exe
+C:\dev\ProjectEuler1\ProjectEuler1\obj\x86\Debug\ProjectEuler1.pdb
+C:\dev\ProjectEuler1\ProjectEuler1\bin\Debug\ProjectEuler1.exe.config
